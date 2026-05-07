@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+
+# Editor/OS specific files
+.DS_Store
+*.swp
+
+# Python dependency directories
+site-packages/
+
+# Testing and Coverage
+htmlcov/
+.pytest_cache/
+
+# IDE/Editor specific files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Log files
+*.log
